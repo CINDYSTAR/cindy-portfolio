@@ -56,7 +56,7 @@ Examples:
 <div class="stats-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1rem 0;">
 
 <div class="stat-item" style="text-align: center; padding: 1rem; border: 1px solid var(--md-default-fg-color--lighter); border-radius: 8px;">
-<strong>7++ Years</strong><br>
+<strong>7+ Years</strong><br>
 Professional Experience
 </div>
 
