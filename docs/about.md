@@ -1,4 +1,4 @@
-# About {{YOUR_NAME}}
+# About Me
 
 <!-- 
 Template Instructions:
@@ -8,29 +8,33 @@ Template Instructions:
 4. Update the timeline in timeline.md to match your career progression
 -->
 
-Welcome! I'm {{YOUR_NAME}}, a {{YOUR_PROFESSIONAL_TITLE}} based in {{YOUR_LOCATION}}.
+Welcome! I'm Cindy N. O, a Quality Assurance Specialist based in San Diego, CA.
+
+<span style="display: inline-block; width: 130px; height: 130px; border-radius: 50%; overflow: hidden; vertical-align: middle; margin-right: 10px; border: 2px solid #7530cf; float: left;">
+  <img src="./assets/professional/avatar.jpg" alt="Cindy's Profile Photo" style="width: 170px; height: 170px; object-fit: cover;" />
+</span>
 
 ## 🚀 Professional Journey
 
-{{YOUR_PROFESSIONAL_SUMMARY}}
+I have demonstrated experience in management, process optimization and process improvement. These experiences are accross non-profit, academic and corporate environment.
 <!-- 
 Example:
 "I'm a passionate full-stack developer with over 5 years of experience creating robust, scalable web applications. I specialize in modern JavaScript frameworks and cloud architecture, with a focus on delivering exceptional user experiences."
 -->
 
 ### Current Role
-**{{YOUR_CURRENT_POSITION}}** at {{YOUR_CURRENT_COMPANY}}
+**Quality Assurance specialist** at {{YOUR_CURRENT_COMPANY}}
 
-{{YOUR_PROFESSIONAL_SUMMARY}}
+I have demonstrated experience in management, process optimization and process improvement. These experiences are accross non-profit, academic and corporate environment.
 
 ## 💼 Core Expertise
 
 ### Technical Skills
 - **Programming Languages**: {{YOUR_PROGRAMMING_LANGUAGES}}
-- **Frameworks & Libraries**: {{YOUR_FRAMEWORKS}}
+- **Frameworks & Libraries**: Compliance monitoring, Record management, Data analysis and Reporting
 - **Databases**: {{YOUR_DATABASES}}
-- **Cloud & Infrastructure**: {{YOUR_CLOUD_SKILLS}}
-- **Development Tools**: {{YOUR_DEVELOPMENT_TOOLS}}
+- **Cloud & Infrastructure**: Jira
+- **Development Tools**: Canva, Figma, Gamma, Loom
 
 ### Soft Skills
 - Team Leadership & Mentoring
@@ -41,14 +45,14 @@ Example:
 ## 🎓 Education & Certifications
 
 ### Education
-See my professional background and experience above. My {{YOUR_YEARS_EXPERIENCE}} years of hands-on experience in {{YOUR_PRIMARY_ROLE}} work speaks to my expertise.
+See my professional background and experience above. My 7+ years of hands-on experience in Quality Assurance specialist work speaks to my expertise.
 
 ## 🏆 Professional Focus
 
-- Specializing in {{YOUR_PRIMARY_ROLE}} and {{YOUR_SECONDARY_ROLE}}
-- {{YOUR_YEARS_EXPERIENCE}}+ years of professional experience
-- Expertise in {{YOUR_PROGRAMMING_LANGUAGES}} and {{YOUR_FRAMEWORKS}}
-- Strong background in {{YOUR_CLOUD_SKILLS}} and modern development practices
+- Specializing in Quality Assurance specialist and {{YOUR_SECONDARY_ROLE}}
+- 7++ years of professional experience
+- Expertise in {{YOUR_PROGRAMMING_LANGUAGES}} and Compliance monitoring, Record management, Data analysis and Reporting
+- Strong background in Jira and modern development practices
 
 ## 🌱 Personal Philosophy
 
@@ -56,24 +60,24 @@ I believe in the power of technology to solve real-world problems and improve pe
 
 ## 🎯 What Drives Me
 
-I'm passionate about {{YOUR_CODING_INTERESTS}} and creating solutions that make a difference. I thrive in collaborative environments where I can both learn from others and share my knowledge. When I'm not coding, I enjoy {{YOUR_HOBBIES}}.
+I'm passionate about {{YOUR_CODING_INTERESTS}} and creating solutions that make a difference. I thrive in collaborative environments where I can both learn from others and share my knowledge. When I'm not coding, I enjoy Vlogging, Movies, Reading, Traveling, Urban Exploration.
 
 ## 🌍 Beyond Technology
 
 When I'm not coding, you'll find me:
 
-- Exploring {{YOUR_HOBBIES}}
-- Learning new {{YOUR_PROGRAMMING_LANGUAGES}} techniques and {{YOUR_FRAMEWORKS}} best practices
-- Discussing {{YOUR_DISCUSSION_TOPICS}} with fellow developers
-- Staying up-to-date with the latest in {{YOUR_CLOUD_SKILLS}} and industry trends
+- Exploring Vlogging, Movies, Reading, Traveling, Urban Exploration
+- Learning new {{YOUR_PROGRAMMING_LANGUAGES}} techniques and Compliance monitoring, Record management, Data analysis and Reporting best practices
+- Discussing Business Strategies, Quality Assurance with fellow developers
+- Staying up-to-date with the latest in Jira and industry trends
 - Contributing to the tech community through mentoring and knowledge sharing
 
 ## 🤝 Let's Collaborate
 
 I'm always interested in:
 
-- **{{YOUR_PRIMARY_ROLE}} projects** using {{YOUR_PROGRAMMING_LANGUAGES}} and {{YOUR_FRAMEWORKS}}
-- **Open-source contributions** in {{YOUR_CLOUD_SKILLS}} and development tools
+- **Quality Assurance specialist projects** using {{YOUR_PROGRAMMING_LANGUAGES}} and Compliance monitoring, Record management, Data analysis and Reporting
+- **Open-source contributions** in Jira and development tools
 - **Speaking opportunities** about {{YOUR_BLOG_TOPICS}}
 - **Mentoring opportunities** for aspiring developers
 - **Freelance consulting** projects in my areas of expertise
@@ -82,9 +86,9 @@ I'm always interested in:
 
 Ready to start a conversation? I'd love to hear from you!
 
-- **Email**: {{YOUR_EMAIL}}
-- **LinkedIn**: [Connect with me]({{LINKEDIN_URL}})
-- **GitHub**: [View my code]({{GITHUB_URL}})
+- **Email**: odoemenecindy@gmail.com
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/cindy-odoemene/)
+- **GitHub**: [View my code](https://www.linkedin.com/in/cindy-odoemene/)
 - **Website**: {{YOUR_WEBSITE_URL}}  <!-- Optional -->
 
 ---

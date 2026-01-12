@@ -1,6 +1,5 @@
 ---
 date: 2026-01-01
-authors: [{{YOUR_HANDLE}}]
 categories: [Getting Started, Template]
 ---
 

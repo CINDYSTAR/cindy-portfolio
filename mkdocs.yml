@@ -2,13 +2,13 @@
 # This is a template version of mkdocs.yml with placeholders for easy customization
 # Replace all {{PLACEHOLDER}} values with your actual information
 
-site_name: {{SITE_NAME}}  # e.g., "John Doe Portfolio"
-site_url: {{SITE_URL}}    # e.g., "https://johndoe.dev" or "https://username.github.io/repo-name"
+site_name: Cindy Oma  # e.g., "John Doe Portfolio"
+site_url: "https://cindy-oma.netlify.app"    # e.g., "https://johndoe.dev" or "https://username.github.io/repo-name"
 
 theme:
   name: material
-  favicon: {{YOUR_FAVICON_PATH}}  # e.g., "assets/favicon/favicon.ico"
-  logo: {{YOUR_LOGO_PATH}}        # e.g., "assets/professional/logo.jpg"
+  favicon: assets/favicon/favicon.ico  # e.g., "assets/favicon/favicon.ico"
+  logo: assets/professional/logo.jpeg        # e.g., "assets/professional/logo.jpg"
   icon:
     code: fontawesome-solid-code
     heart: octicons/heart-fill-24:{ .heart }
@@ -98,23 +98,16 @@ markdown_extensions:
   - pymdownx.superfences
 
 # Copyright notice
-copyright: All rights reserved &copy; {{CURRENT_YEAR}} {{YOUR_NAME}} <br/> <a href="#__consent">Change Privacy Settings</a>
+copyright: All rights reserved &copy; 2026 Cindy N. O <br/> <a href="#__consent">Change Privacy Settings</a>
 
 # Extra configuration
 extra:
   # Social media links
   social:
     - icon: fontawesome/brands/linkedin
-      link: {{LINKEDIN_URL}}        # e.g., "https://www.linkedin.com/in/your-profile/"
+      link: "http://www.linkedin.com/in/cindy-odoemene/"
     - icon: fontawesome/brands/github
-      link: {{GITHUB_URL}}          # e.g., "https://github.com/yourusername"
-    # Add more social links as needed:
-    # - icon: fontawesome/brands/twitter
-    #   link: {{TWITTER_URL}}
-    # - icon: fontawesome/brands/youtube
-    #   link: {{YOUTUBE_URL}}
-    # - icon: fontawesome/brands/instagram
-    #   link: {{INSTAGRAM_URL}}
+      link: "https://github.com/cindy-oma"
 
   # Cookie consent (GDPR compliance)
   consent:
@@ -138,7 +131,7 @@ extra:
   #   property: G-XXXXXXXXXX    # Replace with your Google Analytics tracking ID
 
 # Site information for SEO
-site_description: {{SITE_DESCRIPTION}}  # e.g., "Personal portfolio and blog of John Doe, Software Engineer"
-site_author: {{YOUR_NAME}}
-repo_url: {{REPO_URL}}                   # e.g., "https://github.com/yourusername/your-repo"
-repo_name: {{REPO_NAME}}                 # e.g., "yourusername/your-repo"
+site_description: Personal portfolio and blog of Cindy N. O, Quality Assurance specialist  # e.g., "Personal portfolio and blog of John Doe, Software Engineer"
+site_author: Cindy N. O
+repo_url: "https://github.com/CINDYSTAR/cindy-portfolio"
+repo_name: "CINDYSTAR/cindy-portfolio"

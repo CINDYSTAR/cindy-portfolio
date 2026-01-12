@@ -11,23 +11,23 @@ Template Instructions:
 
 :::timeline
 
-    :::item{date='{{CURRENT_YEAR}}' title='{{YOUR_CURRENT_POSITION}}'}
-    Currently working at {{YOUR_CURRENT_COMPANY}} as a {{YOUR_PRIMARY_ROLE}}.
+    :::item{date='2026' title='Quality Assurance specialist'}
+    Currently working at {{YOUR_CURRENT_COMPANY}} as a Quality Assurance specialist.
     
-    {{YOUR_PROFESSIONAL_SUMMARY}}
+    I have demonstrated experience in management, process optimization and process improvement. These experiences are accross non-profit, academic and corporate environment.
     
-    **Technologies:** {{YOUR_PROGRAMMING_LANGUAGES}}, {{YOUR_FRAMEWORKS}}, {{YOUR_DATABASES}}, {{YOUR_CLOUD_SKILLS}}
+    **Technologies:** {{YOUR_PROGRAMMING_LANGUAGES}}, Compliance monitoring, Record management, Data analysis and Reporting, {{YOUR_DATABASES}}, Jira
     :::
 
     :::item{date='Previous Years' title='Professional Growth'}
-    {{YOUR_YEARS_EXPERIENCE}}+ years of experience in {{YOUR_PRIMARY_ROLE}} and {{YOUR_SECONDARY_ROLE}}.
+    7++ years of experience in Quality Assurance specialist and {{YOUR_SECONDARY_ROLE}}.
     
     **Key Focus Areas:**
     - {{YOUR_CODING_INTERESTS}}
     - {{YOUR_BLOG_TOPICS}}
-    - {{YOUR_DISCUSSION_TOPICS}}
+    - Business Strategies, Quality Assurance
     
-    **Core Technologies:** {{YOUR_DEVELOPMENT_TOOLS}}
+    **Core Technologies:** Canva, Figma, Gamma, Loom
     :::
 
     :::item{date='Career Foundation' title='Early Career'}
@@ -35,10 +35,10 @@ Template Instructions:
     
     **Learning Journey:**
     - Mastered {{YOUR_PROGRAMMING_LANGUAGES}}
-    - Specialized in {{YOUR_FRAMEWORKS}}
-    - Expanded into {{YOUR_CLOUD_SKILLS}}
+    - Specialized in Compliance monitoring, Record management, Data analysis and Reporting
+    - Expanded into Jira
     
-    **Personal Interests:** {{YOUR_HOBBIES}}
+    **Personal Interests:** Vlogging, Movies, Reading, Traveling, Urban Exploration
     :::
 
 :::
@@ -49,26 +49,26 @@ Template Instructions:
 
 ### 🏆 Professional Excellence
 
-- **{{YOUR_CURRENT_POSITION}}** at {{YOUR_CURRENT_COMPANY}}  
-  {{YOUR_PROFESSIONAL_SUMMARY}}
+- **Quality Assurance specialist** at {{YOUR_CURRENT_COMPANY}}  
+  I have demonstrated experience in management, process optimization and process improvement. These experiences are accross non-profit, academic and corporate environment.
 
-- **{{YOUR_YEARS_EXPERIENCE}}+ Years Experience**  
-  Specializing in {{YOUR_PRIMARY_ROLE}} and {{YOUR_SECONDARY_ROLE}}
+- **7++ Years Experience**  
+  Specializing in Quality Assurance specialist and {{YOUR_SECONDARY_ROLE}}
 
 - **Technical Expertise**  
-  Proficient in {{YOUR_PROGRAMMING_LANGUAGES}}, {{YOUR_FRAMEWORKS}}, and {{YOUR_CLOUD_SKILLS}}
+  Proficient in {{YOUR_PROGRAMMING_LANGUAGES}}, Compliance monitoring, Record management, Data analysis and Reporting, and Jira
 
 ### 📚 Continuous Learning
 
 - **Technology Focus** - {{YOUR_CODING_INTERESTS}}
-- **Knowledge Sharing** - {{YOUR_BLOG_TOPICS}} and {{YOUR_DISCUSSION_TOPICS}}
-- **Development Tools** - {{YOUR_DEVELOPMENT_TOOLS}}
+- **Knowledge Sharing** - {{YOUR_BLOG_TOPICS}} and Business Strategies, Quality Assurance
+- **Development Tools** - Canva, Figma, Gamma, Loom
 
 ### 🌟 Personal Growth
 
-- **Professional Development** - {{YOUR_PRIMARY_ROLE}} expertise and leadership
-- **Technical Skills** - Mastery of {{YOUR_FRAMEWORKS}} and {{YOUR_DATABASES}}
-- **Life Balance** - Enjoying {{YOUR_HOBBIES}} outside of work
+- **Professional Development** - Quality Assurance specialist expertise and leadership
+- **Technical Skills** - Mastery of Compliance monitoring, Record management, Data analysis and Reporting and {{YOUR_DATABASES}}
+- **Life Balance** - Enjoying Vlogging, Movies, Reading, Traveling, Urban Exploration outside of work
 
 ---
 
@@ -76,7 +76,7 @@ Template Instructions:
 Template Variables Guide:
 
 Timeline Items:
-- {{CURRENT_YEAR}} - Current year (e.g., "2024")
+- 2026 - Current year (e.g., "2024")
 - {{CURRENT_POSITION}} - Your current job title (e.g., "Senior Software Engineer")
 - {{CURRENT_ROLE_DESCRIPTION}} - Brief description of your current role
 - {{CURRENT_ACHIEVEMENT_X}} - Key achievements in current role

@@ -1,8 +1,8 @@
-# Welcome to {{YOUR_NAME}}'s Portfolio
+# Welcome to Cindy N. O's Portfolio
 
 <!-- 
 Template Instructions:
-1. Replace {{YOUR_NAME}} with your actual name
+1. Replace Cindy N. O with your actual name
 2. Replace the video source with your own professional video/image
 3. Update the skills, interests, and descriptions to match your background
 4. Customize the profile video/image styling as needed
@@ -11,14 +11,14 @@ Template Instructions:
 
 <span class="profile-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 150px; border-radius: 50%; overflow: hidden; vertical-align: middle; margin-right: 10px; border: 2px solid #7530cf; float: left;">
   <!-- Replace with your own video or image -->
-  <video src="./assets/professional/{{YOUR_VIDEO_FILE}}" width="180px" height="180px" style="object-fit: cover; object-position: top top;" autoplay loop muted disablePictureInPicture></video>
+  <video src="./assets/professional/profile.JPG" width="180px" height="180px" style="object-fit: cover; object-position: top top;" autoplay loop muted disablePictureInPicture></video>
   <!-- Alternative: Use an image instead of video -->
-  <!-- <img src="./assets/professional/{{YOUR_IMAGE_FILE}}" width="180px" height="180px" style="object-fit: cover; object-position: top top;" alt="{{YOUR_NAME}} Profile Photo"> -->
+  <!-- <img src="./assets/professional/{{YOUR_IMAGE_FILE}}" width="180px" height="180px" style="object-fit: cover; object-position: top top;" alt="Cindy N. O Profile Photo"> -->
 </span>
 
-# Hi <span class="pulse">👋</span>, I am {{YOUR_FIRST_NAME}}
+# Hi <span class="pulse">👋</span>, I am Cindy
 
-A **{{YOUR_PRIMARY_ROLE}}** 💻 | **{{YOUR_SECONDARY_ROLE}}** 🌐
+A **Quality Assurance specialist** 💻 | **{{YOUR_SECONDARY_ROLE}}** 🌐
 
 <!-- 
 Customize this section with your own roles, interests, and emoji combinations.
@@ -33,17 +33,17 @@ Examples:
 
 - 💻 {{YOUR_CODING_INTERESTS}}
 - 🛠️ Building amazing applications and solutions
-- 📚 Learning {{YOUR_PROGRAMMING_LANGUAGES}} and {{YOUR_FRAMEWORKS}}
+- 📚 Learning {{YOUR_PROGRAMMING_LANGUAGES}} and Compliance monitoring, Record management, Data analysis and Reporting
 - 🎮 Gaming and technology exploration
 - 🎵 Music and creative hobbies
 - 👥 Community involvement and networking
-- 🌿 {{YOUR_HOBBIES}}
+- 🌿 Vlogging, Movies, Reading, Traveling, Urban Exploration
 
 ### On this site you can:
 
 - 📄 Find my resume and professional background
 - 📝 Read my blog posts about {{YOUR_BLOG_TOPICS}}
-- 💭 Learn about my thoughts on {{YOUR_DISCUSSION_TOPICS}}
+- 💭 Learn about my thoughts on Business Strategies, Quality Assurance
 - 🔗 Connect with me on social platforms
 - 📬 Get in touch for collaboration and opportunities
 
@@ -56,12 +56,12 @@ Examples:
 <div class="stats-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1rem 0;">
 
 <div class="stat-item" style="text-align: center; padding: 1rem; border: 1px solid var(--md-default-fg-color--lighter); border-radius: 8px;">
-<strong>{{YOUR_YEARS_EXPERIENCE}}+ Years</strong><br>
+<strong>7++ Years</strong><br>
 Professional Experience
 </div>
 
 <div class="stat-item" style="text-align: center; padding: 1rem; border: 1px solid var(--md-default-fg-color--lighter); border-radius: 8px;">
-<strong>{{YOUR_PRIMARY_ROLE}}</strong><br>
+<strong>Quality Assurance specialist</strong><br>
 Current Role
 </div>
 
@@ -85,27 +85,27 @@ Continuous Growth
 
 ### 💻 Technical Skills
 - **Languages**: {{YOUR_PROGRAMMING_LANGUAGES}}  <!-- e.g., "Python, JavaScript, TypeScript, Go" -->
-- **Frameworks**: {{YOUR_FRAMEWORKS}}  <!-- e.g., "React, Vue.js, Django, FastAPI" -->
+- **Frameworks**: Compliance monitoring, Record management, Data analysis and Reporting  <!-- e.g., "React, Vue.js, Django, FastAPI" -->
 - **Databases**: {{YOUR_DATABASES}}  <!-- e.g., "PostgreSQL, MongoDB, Redis" -->
-- **Cloud & DevOps**: {{YOUR_CLOUD_SKILLS}}  <!-- e.g., "AWS, Docker, Kubernetes, CI/CD" -->
-- **Tools**: {{YOUR_DEVELOPMENT_TOOLS}}  <!-- e.g., "Git, VS Code, Figma, Postman" -->
+- **Cloud & DevOps**: Jira  <!-- e.g., "AWS, Docker, Kubernetes, CI/CD" -->
+- **Tools**: Canva, Figma, Gamma, Loom  <!-- e.g., "Git, VS Code, Figma, Postman" -->
 
 ### 🎯 Specializations
-- {{YOUR_PRIMARY_ROLE}}
+- Quality Assurance specialist
 - {{YOUR_SECONDARY_ROLE}}
-- {{YOUR_FRAMEWORKS}} development
-- {{YOUR_CLOUD_SKILLS}} architecture
+- Compliance monitoring, Record management, Data analysis and Reporting development
+- Jira architecture
 
 ---
 
 ## Let's Connect! 🤝
 
-I'm always excited to meet new people and discuss {{YOUR_DISCUSSION_TOPICS}}. <!-- e.g., "technology, potential collaborations, or interesting projects" -->
+I'm always excited to meet new people and discuss Business Strategies, Quality Assurance. <!-- e.g., "technology, potential collaborations, or interesting projects" -->
 
 ### 🌟 Currently
-- Working as {{YOUR_CURRENT_POSITION}} at {{YOUR_CURRENT_COMPANY}}
-- Expanding skills in {{YOUR_PROGRAMMING_LANGUAGES}} and {{YOUR_FRAMEWORKS}}
-- Building projects with {{YOUR_CLOUD_SKILLS}}
+- Working as Quality Assurance specialist at {{YOUR_CURRENT_COMPANY}}
+- Expanding skills in {{YOUR_PROGRAMMING_LANGUAGES}} and Compliance monitoring, Record management, Data analysis and Reporting
+- Building projects with Jira
 
 ### 💡 Open To
 - Freelance projects and consulting
