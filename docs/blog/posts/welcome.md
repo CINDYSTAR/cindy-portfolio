@@ -1,6 +1,6 @@
 ---
 date: 2026-01-01
-categories: [Getting Started, Template]
+categories: [Getting Started, Welcome]
 ---
 
 # Welcome to Your New Blog!
