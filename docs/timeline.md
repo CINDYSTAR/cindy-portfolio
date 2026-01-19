@@ -3,6 +3,12 @@
 ::timeline::
 
 - content: |
+    **Married**
+  icon: 🖥️
+  sub_title: December 15, 2026 - Present
+  title: We got married!!  
+
+- content: |
     **🤝 Quality Assurance Specialist**
   icon: 🤝
   sub_title: May 6 - 8 2024

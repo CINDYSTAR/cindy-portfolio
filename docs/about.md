@@ -78,3 +78,4 @@ Ready to connect or collaborate? I'd love to hear from you!
 
 - **Email**: [Send a Message](mailto:odoemenecindy@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/cindy-odoemene/)
+- **Facebook**: [Connect with me](https://www.facebook.com/cindyoma.star/)
